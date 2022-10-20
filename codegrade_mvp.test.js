@@ -15,7 +15,7 @@ const actionA = {
   project_id: 1, description: 'x', notes: 'y', completed: false,
 }
 const actionB = {
-  project_id: 1, description: 'u', notes: 'v', completed: true,
+  project_id: 1, description: 'u', notes: 'v', completed: false,
 }
 const actions = [actionA, actionB]
 
